@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Complaint Triage Assistant",
+  "description": "Clinical governance and patient grievance triage system to classify, assess severity, detect risks, recommend escalation routing, and enforce human oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
